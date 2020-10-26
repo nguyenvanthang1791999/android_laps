@@ -29,4 +29,5 @@ public class Restaurant {
     public String toString (){
         return(getName());
     }
+    
 }
